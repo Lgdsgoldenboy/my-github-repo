@@ -1,0 +1,27 @@
+/* *{
+    border: 1px solid red;
+}
+@media (max-width: 640px) {
+    .cont {
+        background-color: red;
+    }
+
+    .cont1 {
+        padding-left: 3rem;
+        padding-right: 3rem;
+    }
+    .cont3 {
+        font-size: 30px;
+        font-weight: bold;
+    }
+    .cont4 {
+        flex-direction: column;
+        column-gap: 10;
+        margin-bottom: 0px;
+    }
+    .cont5 {
+        display: grid;
+        background-color: green;
+        grid-template-columns: 1fr;
+    }
+} */
