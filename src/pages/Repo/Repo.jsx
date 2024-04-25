@@ -76,7 +76,7 @@ const Repo = () => {
           >
             <h5 className="text-[#222731] text-3xl font-bold md:text-xl md:font-semibold dark:text-white">
               <p className="text-[#0079FF]">{`${
-                true ? `Noble Udoesit` : "Github"
+                true ? `Lgdsgoldenboy` : "Github"
               }`}</p>
             </h5>
             <div className="flex items-start gap-2 cont4">
